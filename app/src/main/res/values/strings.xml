@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nova Browser</string>
+    <string name="address_bar_hint">Search or type URL (e.g., google.com)</string>
+    <string name="action_go">Go</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_navigate_forward">Navigate forward</string>
+    <string name="cd_reload_page">Reload page</string>
+    <string name="cd_stop_loading">Stop loading</string>
+    <string name="cd_home_page">Home page</string>
+    <string name="cd_clear_url">Clear address bar</string>
+    <string name="cd_security_secure">Secure HTTPS connection</string>
+    <string name="cd_security_unsecure">Standard HTTP connection</string>
+    <string name="cd_language_settings">Language &amp; locale info</string>
+    <string name="cd_clear_cache">Clear cache &amp; cookies</string>
+    <string name="status_loading">Loading page…</string>
+    <string name="status_ready">Ready</string>
+    <string name="error_page_load_title">Unable to load webpage</string>
+    <string name="error_page_load_message">Please check the address or your internet connection and try again.</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_go_home">Go to Home</string>
+    <string name="language_detected_format">UI Language: %1$s (%2$s)</string>
+    <string name="language_system_default">System Auto (%1$s)</string>
+    <string name="language_english">English (EN)</string>
+    <string name="language_russian">Русский (RU)</string>
+    <string name="language_dialog_title">Interface Language</string>
+    <string name="language_dialog_subtitle">Automatically detected from device locale, or test localization live:</string>
+    <string name="action_close">Close</string>
+    <string name="cache_cleared_toast">Browser cache cleared</string>
+    <string name="quick_link_google">Google</string>
+    <string name="quick_link_wikipedia">Wikipedia</string>
+    <string name="quick_link_duckduckgo">DuckDuckGo</string>
+    <string name="quick_link_github">GitHub</string>
+</resources>

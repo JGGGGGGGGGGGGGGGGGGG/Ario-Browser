@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nova Браузер</string>
+    <string name="address_bar_hint">Введите адрес или поисковый запрос</string>
+    <string name="action_go">Перейти</string>
+    <string name="cd_navigate_back">Назад</string>
+    <string name="cd_navigate_forward">Вперёд</string>
+    <string name="cd_reload_page">Обновить страницу</string>
+    <string name="cd_stop_loading">Остановить загрузку</string>
+    <string name="cd_home_page">Домашняя страница</string>
+    <string name="cd_clear_url">Очистить адресную строку</string>
+    <string name="cd_security_secure">Защищённое соединение HTTPS</string>
+    <string name="cd_security_unsecure">Обычное соединение HTTP</string>
+    <string name="cd_language_settings">Язык интерфейса и локаль</string>
+    <string name="cd_clear_cache">Очистить кэш браузера</string>
+    <string name="status_loading">Загрузка страницы…</string>
+    <string name="status_ready">Готово</string>
+    <string name="error_page_load_title">Не удалось загрузить страницу</string>
+    <string name="error_page_load_message">Проверьте правильность адреса или подключение к интернету и попробуйте снова.</string>
+    <string name="action_retry">Повторить</string>
+    <string name="action_go_home">На главную</string>
+    <string name="language_detected_format">Язык интерфейса: %1$s (%2$s)</string>
+    <string name="language_system_default">Системный авто (%1$s)</string>
+    <string name="language_english">English (EN)</string>
+    <string name="language_russian">Русский (RU)</string>
+    <string name="language_dialog_title">Язык интерфейса</string>
+    <string name="language_dialog_subtitle">Определяется автоматически по языку устройства (можно переключить для проверки):</string>
+    <string name="action_close">Закрыть</string>
+    <string name="cache_cleared_toast">Кэш браузера очищен</string>
+    <string name="quick_link_google">Google</string>
+    <string name="quick_link_wikipedia">Википедия</string>
+    <string name="quick_link_duckduckgo">DuckDuckGo</string>
+    <string name="quick_link_github">GitHub</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Nova Browser",
+  "description": "A fast, native Android WebView browser with automatic system language detection and English/Russian localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
